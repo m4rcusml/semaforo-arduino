@@ -6,15 +6,15 @@ Este projeto consiste na criação de um **semáforo automatizado** desenvolvido
 
 Assim que o Arduino é ligado, o semáforo inicia com a luz verde acesa e, após um intervalo de tempo configurado, alterna para amarelo e depois para vermelho. Esse ciclo se repete continuamente, simulando um cruzamento com controle eletrônico simples.  
 
-<div align="center">
-  <figure>
-    <video controls width="640">
-      <source src="assets/simulating-on-tinkercard.mp4" type="video/mp4">
-      Seu navegador não suporta o elemento de vídeo. Baixe o vídeo aqui: <a href="assets/simulating-on-tinkercard.mp4">assets/simulating-on-tinkercard.mp4</a>.
-    </video>
-    <figcaption>Demonstração da simulação no Tinkercad.</figcaption>
-  </figure>
-</div>
+O vídeo abaixo mostra a simulação do semáforo sendo executada no TinkerCad. Para acessar a simulação, [clique aqui](https://www.tinkercad.com/things/78brHnIHrJw-melhor-semaforo-do-mundo?sharecode=TAp2k-xf1puT-cF8fzAScq1DqdNYLtm6m7ounRyUKUA).
+
+[Assista ao vídeo da simulação no YouTube](https://youtu.be/efG9paF3960)
+
+<p align="center">
+  <a href="https://youtu.be/efG9paF3960" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.youtube.com/vi/efG9paF3960/maxresdefault.jpg" alt="Vídeo da simulação no YouTube" style="max-width:640px; width:100%; height:auto;" />
+  </a>
+</p>
 
 ---
 
