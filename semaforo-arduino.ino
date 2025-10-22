@@ -32,8 +32,8 @@ void setup() {
   
   pinMode(11, OUTPUT); // red
   pinMode(3, OUTPUT); // green
-  pinMode(7, OUTPUT); // blue
-  pinMode(6, OUTPUT); // yellow
+  pinMode(7, OUTPUT); // yellow (saida para led rgb)
+  pinMode(6, OUTPUT); // yellow (saida para led comum)
 
 }
 
